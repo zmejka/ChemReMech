@@ -1,0 +1,16 @@
+bertviz
+ipykernel
+ipywidgets
+jupyterlab
+matplotlib
+numpy
+pandas
+rdkit
+regex
+scikit-learn
+scipy
+seaborn
+tokenizers
+torch
+tqdm
+transformers
